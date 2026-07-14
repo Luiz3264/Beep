@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+body {
+  user-select: none;
+}
+button {
+  cursor: pointer;
+}
+select {
+  outline: none;
+}
+textarea {
+  outline: none;
+  resize: none;
+}
