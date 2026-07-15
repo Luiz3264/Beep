@@ -13,3 +13,6 @@ textarea {
   outline: none;
   resize: none;
 }
+a {
+  text-decoration: underline;
+}

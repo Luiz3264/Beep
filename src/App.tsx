@@ -251,6 +251,9 @@ export default function App() {
                 ".     : rest\n\n" +
                 'Click "record" to save as a file.\n'}
             </pre>
+            <a className="text-xs" href="https://github.com/Luiz3264/Beep">
+              Github Page
+            </a>
           </div>
         </div>
       </div>
